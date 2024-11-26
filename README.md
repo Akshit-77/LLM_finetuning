@@ -17,6 +17,8 @@ This repository contains a fine-tuned Large Language Model (LLM) designed to pow
 pip install transformers peft bitsandbytes torch datasets wandb
 ```
 
+
+
 ## Hyperparameters
 ### Model Configuration
 - **Model**: meta-llama/Llama-3.2-3B-Instruct
@@ -75,6 +77,11 @@ pip install transformers peft bitsandbytes torch datasets wandb
 - GPU with sufficient memory recommended
 - Wandb account needed for experiment tracking
 
+
+## Loading the model
+The model is too large in size for uploading on Github
+If you want load the model in your notebook, import it from HUGGING_FACE using
+model_nama = "Akshit-77/llama-3.2-3b-chatbot"
 
 # Running the Interface
 ## Prerequisites
