@@ -85,7 +85,7 @@ Trained model checkpoint
 
 ## Steps to Launch Interface
 
-Open gradio_improved.ipynb
+Open gradio_interface_with_RAG.ipynb
 Ensure all dependencies are installed
 Run notebook cells sequentially
 Interface will launch in web browser
