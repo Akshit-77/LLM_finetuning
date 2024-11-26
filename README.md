@@ -79,9 +79,9 @@ pip install transformers peft bitsandbytes torch datasets wandb
 
 
 ## Loading the model
-The model is too large in size for uploading on Github
+The model is too large in size for uploading on Github.
 If you want load the model in your notebook, import it from HUGGING_FACE using
-model_nama = "Akshit-77/llama-3.2-3b-chatbot"
+_model_name = "Akshit-77/llama-3.2-3b-chatbot"_
 
 # Running the Interface
 ## Prerequisites
